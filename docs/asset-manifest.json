@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ButsuriKadaiKenkyu/static/css/main.073c9b0a.css",
+    "main.js": "/ButsuriKadaiKenkyu/static/js/main.2935963a.js",
+    "static/js/787.b94a327f.chunk.js": "/ButsuriKadaiKenkyu/static/js/787.b94a327f.chunk.js",
+    "static/media/logo.svg": "/ButsuriKadaiKenkyu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ButsuriKadaiKenkyu/index.html",
+    "main.073c9b0a.css.map": "/ButsuriKadaiKenkyu/static/css/main.073c9b0a.css.map",
+    "main.2935963a.js.map": "/ButsuriKadaiKenkyu/static/js/main.2935963a.js.map",
+    "787.b94a327f.chunk.js.map": "/ButsuriKadaiKenkyu/static/js/787.b94a327f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2935963a.js"
+  ]
+}
